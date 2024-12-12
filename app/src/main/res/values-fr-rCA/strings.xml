@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lectrice de nouvelles de la BBC</string>
+    <string name="etTypeHere">Entrez votre nom</string>
+    <string name="save_toast_message">Le favori a été sauvegardé</string>
+    <string name="delete_snackbar_message">Le favori a été supprimé</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="next_button">Suivant</string>
+    <string name="add_button">Ajouter un favori</string>
+    <string name="delete_button">Supprimer le favori</string>
+    <string name="textgoeshere">Avertissement de suppression</string>
+    <string name="hello">hallo</string>
+</resources>

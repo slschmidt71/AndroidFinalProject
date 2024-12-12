@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BBC News Reader</string>
+    <string name="etTypeHere">Enter your name</string>
+    <string name="save_toast_message">Favourite has been saved</string>
+    <string name="delete_snackbar_message">Favourite has been deleted</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="next_button">Next</string>
+    <string name="add_button">Add Favourite</string>
+    <string name="delete_button">Delete Favourite</string>
+    <string name="textgoeshere">Delete warning</string>
+    <string name="hello">hello</string>
+    <string name="connection_error" />
+    <string name="xml_error" />
+</resources>
